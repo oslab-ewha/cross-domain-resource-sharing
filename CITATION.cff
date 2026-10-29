@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article listed under preferred-citation."
+type: software
+title: "Supplementary code for: Optimizing Computing Resource Sharing across Administrative Boundaries in the AI and Edge Era"
+abstract: >-
+  Reproducible example of Section 5.8 (Table 9), comparing placement only,
+  replication, and checkpoint-based recovery for deadline-constrained GPU tasks
+  on revocable shared GPUs, and the documented OpenAlex literature search of
+  Section 2.4 (Table A1).
+authors:
+  - family-names: Cho
+    given-names: Kyungwoon
+    affiliation: "Embedded Software Research Center, Ewha University, Seoul, Republic of Korea"
+    orcid: "https://orcid.org/0009-0000-2070-373X"
+  - family-names: Shin
+    given-names: Yonghyeon
+    affiliation: "Department of Computer Engineering, Seoul National University of Science and Technology, Seoul, Republic of Korea"
+    email: yshin@seoultech.ac.kr
+  - family-names: Bahn
+    given-names: Hyokyung
+    affiliation: "Department of Computer Engineering, Ewha University, Seoul, Republic of Korea"
+    orcid: "https://orcid.org/0000-0002-7188-3889"
+    email: bahn@ewha.ac.kr
+version: "1.0"
+date-released: "2026-10-29"
+license: MIT
+repository-code: "https://github.com/oslab-ewha/cross-domain-resource-sharing"
+keywords:
+  - resource sharing
+  - edge computing
+  - GPU sharing
+  - volunteer computing
+  - task replication
+  - checkpointing
+  - discrete-event simulation
+preferred-citation:
+  type: article
+  title: "Optimizing Computing Resource Sharing across Administrative Boundaries in the AI and Edge Era: Taxonomy, Challenges, and Research Directions"
+  authors:
+    - family-names: Cho
+      given-names: Kyungwoon
+      orcid: "https://orcid.org/0009-0000-2070-373X"
+    - family-names: Shin
+      given-names: Yonghyeon
+    - family-names: Bahn
+      given-names: Hyokyung
+      orcid: "https://orcid.org/0000-0002-7188-3889"
+  journal: Mathematics
+  publisher:
+    name: MDPI
+  year: 2026
+  status: submitted
