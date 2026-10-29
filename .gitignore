@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+# outputs written by the scripts at the repository root (committed copies live in results/)
+/results_58.json
+/records.csv
