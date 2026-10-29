@@ -58,7 +58,7 @@ row per distinct record and the queries that retrieved it.
 
     python openalex_queries.py
 
-The search reported in the article was run on 28 October 2026 and returned 1105 distinct records.
+The search reported in the article was run on 28 October 2026 and returned 1105 distinct records. A rerun on 29 October 2026 returned 1111 distinct records; its output is included as `results/openalex_records_2026-10-29.csv`.
 OpenAlex is updated continuously, so later runs can return slightly different counts.
 
 ## Citation
